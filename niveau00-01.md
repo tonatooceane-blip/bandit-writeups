@@ -1,6 +1,8 @@
 Bandit Level 0 → 1
 
 
+
+
  Objectifs:
 
 Se connecter au serveur Bandit via SSH et trouver le mot de passe du niveau 1 dans le répertoire home.
@@ -25,16 +27,7 @@ Je me connecte via SSH avec les identBandit Level 0 → 1
 Se connecter au serveur Bandit via SSH et trouver le mot de passe du niveau 1 dans le répertoire home.
 
 
- Informations données:
-
-- Hôte : bandit.labs.overthewire.org
-- Port : 2220
-- Utilisateur : bandit0
-- Mot de passe : bandit0
-- Fichier cible : readme
-
-
-Approche:ifiants fournis, puis j'explore le répertoire pour trouver le fichier `readme` qui contient le mot de passe.
+Approche:Je me connecte via SSH avec les identifiants fournis, puis j'explore le répertoire pour trouver le fichier `readme` qui contient le mot de passe.
 
 
 
