@@ -20,9 +20,9 @@ Je me connecte avec le mot de passe du niveau précédent. Le fichier "-" a un n
 
 -Concepts clés:
 
-Fichiers avec noms spéciaux ou problématiques
-Utilisation de chemins relatifs (./)
-Redirection d'entrée (<)
+*Fichiers avec noms spéciaux ou problématiques
+*Utilisation de chemins relatifs (./)
+*Redirection d'entrée (<)
 
 -Commandes:
 
