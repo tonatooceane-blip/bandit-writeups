@@ -51,4 +51,5 @@ Prochaine étape:
 Utiliser ce mot de passe pour se connecter au niveau 2 :
 
 Taper:
+
 ssh bandit2@bandit.labs.overthewire.org -p 2220
